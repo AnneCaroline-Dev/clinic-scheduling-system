@@ -130,7 +130,13 @@ https://www.figma.com/proto/q0xinEOcL8R7xl9j9HU9sm/App-Vida-?node-id=16-1601&p=f
 
 ## Aplicação
 
-🚧 Em desenvolvimento
+
+image-viewer--AnneCaroline12.replit.app
+
+Credenciais de Login
+
+usuario: usuario@email.com 
+senha: 1234
 
 ---
 
