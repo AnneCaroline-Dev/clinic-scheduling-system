@@ -131,7 +131,7 @@ https://www.figma.com/proto/q0xinEOcL8R7xl9j9HU9sm/App-Vida-?node-id=16-1601&p=f
 ## Aplicação
 
 
-image-viewer--AnneCaroline12.replit.app
+https://image-viewer--AnneCaroline12.replit.app
 
 Credenciais de Login
 
